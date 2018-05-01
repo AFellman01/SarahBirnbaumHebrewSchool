@@ -1,5 +1,13 @@
 body{
-background-color: #459C83;
  height: 100%;
  overflow: hidden;
+ /* background-color: blue; */
 }
+
+#home{
+  background: linear-gradient(color-stop1, color-stop2) !important;
+}
+
+#name{
+  color: gold !important;
+  }
